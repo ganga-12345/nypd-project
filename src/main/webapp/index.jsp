@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "i got a good mentor for devops training lessons!" %></h2>
+<h2><%= "i am lucky to have a good mentor for devops traiing!" %></h2>
 </body>
 </html>
