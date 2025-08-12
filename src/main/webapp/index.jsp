@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "today is tuesday!" %></h2>
+<h2><%= "i got a good mentor for devops training!" %></h2>
 </body>
 </html>
